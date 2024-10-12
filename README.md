@@ -1,2 +1,2 @@
-# anonymity-in-healthcare-management
-K-anonymity applied in Hospital Management
+# Anonymity-in-healthcare-management: K-Anonymity Applied in Hospital Management
+This project focuses on enhancing patient data privacy by applying the concept of K-anonymity in hospital management systems. K-anonymity is a data anonymization technique that ensures each patient record is indistinguishable from at least K−1 other records based on specific attributes. By doing so, sensitive patient information can be shared for research or management purposes without compromising privacy.
